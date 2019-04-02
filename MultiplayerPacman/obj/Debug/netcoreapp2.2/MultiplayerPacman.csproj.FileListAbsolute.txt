@@ -77,3 +77,4 @@ C:\Users\Andrei\source\repos\MultiplayerPacman\MultiplayerPacman\obj\Debug\netco
 C:\Users\Andrei\source\repos\MultiplayerPacman\MultiplayerPacman\obj\Debug\netcoreapp2.2\MultiplayerPacman.dll
 C:\Users\Andrei\source\repos\MultiplayerPacman\MultiplayerPacman\obj\Debug\netcoreapp2.2\MultiplayerPacman.pdb
 C:\Users\Andrei\source\repos\MultiplayerPacman\MultiplayerPacman\obj\Debug\netcoreapp2.2\MultiplayerPacman.csproj.CopyComplete
+C:\Users\Andrei\source\repos\MultiplayerPacman\MultiplayerPacman\obj\Debug\netcoreapp2.2\MultiplayerPacman.csprojAssemblyReference.cache

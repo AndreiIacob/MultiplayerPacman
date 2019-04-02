@@ -33,7 +33,7 @@ namespace MultiplayerPacman.Controllers
         }
 
         // GET: api/Scores
-        [HttpGet]
+        [HttpPost]
         [ActionName("Add")]
         public async Task<ActionResult> AddScores(string email, float score)
         {

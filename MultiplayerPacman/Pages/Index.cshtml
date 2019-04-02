@@ -306,3 +306,7 @@
         gameStateConnection.invoke("SendState", state).catch(err => console.error(err.toString()));
     }
 </script>
+
+<script>
+        var userEmail = "@HttpContext.User.Identity.Name";
+</script>

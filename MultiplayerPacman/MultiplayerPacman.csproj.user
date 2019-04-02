@@ -15,5 +15,6 @@
     <WebStackScaffolding_ControllerDialogWidth>600</WebStackScaffolding_ControllerDialogWidth>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_DbContextTypeFullName>MultiplayerPacman.Data.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
+    <NameOfLastUsedPublishProfile>MultiplayerPacman20190402014128 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

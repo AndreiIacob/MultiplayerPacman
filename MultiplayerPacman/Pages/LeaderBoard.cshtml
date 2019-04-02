@@ -25,21 +25,21 @@
     @{ int idx = 1; }
     @foreach (var item in Model)
     {
-    <tr>
-        <td>
-            @idx
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Email)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.ScoreValue)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Date)
-        </td>
-    </tr>
-    idx++; 
+        <tr>
+            <td>
+                @idx
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ScoreValue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+        </tr>
+        idx++;
     }
 </table>
 
